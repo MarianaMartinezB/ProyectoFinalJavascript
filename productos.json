@@ -1,0 +1,51 @@
+[
+    {
+        "id": "libro1",
+        "titulo": "Coaching CoActivo Transformacional",
+        "imagen": "../imagenes/coactivo.jpg",
+        "precio": 3000
+    },
+    
+    {
+        "id": "libro2",
+        "titulo": "Coaching Equipos en la Practica",
+        "imagen": "../imagenes/equipos.jpg",
+        "precio": 5800
+    },
+    {
+        "id": "libro3",
+        "titulo": "Coaching Transformacion Personal",
+        "imagen": "../imagenes/transformacion.jpg",
+        "precio": 8100
+    },
+    {
+        "id": "libro4",
+        "titulo": "Neurociencia aplicada al Coaching",
+        "imagen": "../imagenes/neurociencia.jpg",
+        "precio": 10000
+    },
+    {
+        "id": "libro5",
+        "titulo": "Libro Coaching Sir John Withmore",
+        "imagen": "../imagenes/whitmore.jpg",
+        "precio": 16000
+    },
+    {
+        "id": "libro6",
+        "titulo": "Estrategias Coaching Ejecutivo",
+        "imagen": "../imagenes/bicondoa.jpg",
+        "precio": 3800
+    },
+    {
+        "id": "libro7",
+        "titulo": "Libro Coaching para Lideres",
+        "imagen": "../imagenes/evans.jpg",
+        "precio": 3800
+    },
+    {
+        "id": "libro8",
+        "titulo": "Un Mundo de Posibilidades",
+        "imagen": "../imagenes/perel.jpg",
+        "precio": 4500
+    }
+]
